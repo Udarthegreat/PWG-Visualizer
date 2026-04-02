@@ -395,8 +395,6 @@ style:
                 ["==", ["get", "crossing:signals"], "dedicated"]
               ]
             ],
-            ["has", "surface"],
-            ["has", "width"],
             ["has", "button_operated"],
             ["has", "traffic_signals:arrow"],
             ["has", "traffic_signals:vibration"],
@@ -421,8 +419,6 @@ style:
                 ["==", ["get", "crossing:signals"], "no"]
               ]
             ],
-            ["has", "surface"],
-            ["has", "width"],
             ["has", "button_operated"],
             ["has", "traffic_signals:arrow"],
             ["has", "traffic_signals:vibration"]
@@ -492,8 +488,6 @@ style:
                   ["==",["get","crossing:signals"],"dedicated"]
                 ]
               ],
-              ["has","surface"],
-              ["has","width"],
               ["has","button_operated"],
               ["has","traffic_signals:arrow"],
               ["has","traffic_signals:vibration"],
@@ -518,8 +512,6 @@ style:
                   ["==",["get","crossing:signals"],"no"]
                 ]
               ],
-              ["has","surface"],
-              ["has","width"],
               ["has","button_operated"],
               ["has","traffic_signals:arrow"],
               ["has","traffic_signals:vibration"]

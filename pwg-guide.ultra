@@ -1,7 +1,6 @@
 ---
 title: PWG Pedestrian Infrastructure (Tier View)
 description: Visualize PWG guide features inside {{bbox}}. Color = PWG tier from mapped tags; pattern = feature class. Node icons = PWG tier symbols.
-popupOnHover: true
 
 style:
   extends: https://api.protomaps.com/styles/v5/dark/en.json?key=f8eceeaad6896c92
